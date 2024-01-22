@@ -1,0 +1,15 @@
+.logo{
+  width:60px;
+  height:40px;
+}
+
+.cursor-pointer{
+ cursor: pointer;  
+}
+
+.img-size{
+  height:50%;
+}
+.text-bold{
+  color:green;
+}
